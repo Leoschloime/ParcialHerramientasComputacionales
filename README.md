@@ -1,0 +1,3 @@
+# ParcialHerramientasComputacionales
+En el primer archivo, tenemos el codigo en Python, en el que se define una funcion en la cual vamos a recibir los parametros que nos dan en el problema, por ejemplo la cedula, el roll, cuantos productos quiere llevar, el codigo del producto deceado y dependiendo de estos datos que tipo de promocion aplica para cada usuario; el usuario interactua mucho con el programa ya que esta hecho de manera que siempre va a estar en funcionamiento a pesar de un error del usuario.
+En el segundo archivo, encontraremos las respuestas a las dos preguntas planteadas, explicando que errores encontramos, y de que forma se podrian solucionar.
